@@ -15,6 +15,8 @@
  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
           
           
           
@@ -31,3 +33,17 @@
 
  
 </div>
+ 
+ <br>
+<img align="center" alt="CSS" height="50" width="70" src="![WhatsApp Image 2022-11-28 at 16 26 17](https://user-images.githubusercontent.com/99758327/204363874-3772f118-4c1a-4131-af10-b75e41aa69ad.jpeg)"/>
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
