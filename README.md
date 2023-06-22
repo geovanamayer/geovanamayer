@@ -1,10 +1,9 @@
-## Bem vindo(a) ao meu perfil !!
+## Bem vindo(a) ao meu perfil !!   Welcome to my profile!!
 
  <div>
    <a href="https://github.com/geovanamayer">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?         username=geovanamayer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanamayer&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
