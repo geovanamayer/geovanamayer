@@ -4,6 +4,7 @@
    <a href="https://github.com/geovanamayer">
   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanamayer&layout=compact&langs_count=6&theme=tokyonight"/>
+<img  height="180em" src="https://github.com/geovanamayer/geovanamayer/assets/99758327/5cce395f-8588-4fc3-9ed0-e5318dafdb4c"/>
 
 
 </div>
