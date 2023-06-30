@@ -1,4 +1,4 @@
-## Bem vindo(a) ao meu perfil !!   Welcome to my profile!!  <img lt="CSS" height="50" width="70" height="180em" src="https://github.com/geovanamayer/geovanamayer/assets/99758327/5cce395f-8588-4fc3-9ed0-e5318dafdb4c"/>
+##<img lt="CSS" height="50" width="70" height="180em" src="https://github.com/geovanamayer/geovanamayer/assets/99758327/5cce395f-8588-4fc3-9ed0-e5318dafdb4c"/>    Bem vindo(a) ao meu perfil !!   Welcome to my profile!!  
 
  <div>
    <a href="https://github.com/geovanamayer">
