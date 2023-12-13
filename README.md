@@ -3,6 +3,9 @@
  <div>
    <a href="https://github.com/geovanamayer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanamayer&layout=compact&langs_count=6&theme=tokyonight"/>
+![animegirl](https://github.com/geovanamayer/geovanamayer/assets/99758327/d8b2e45c-9558-407b-80ab-5eb58bc12989)
+
+  
   
 <img  alt="CSS" height="183" width="400" src="https://github.com/geovanamayer/geovanamayer/assets/99758327/fd70a828-7145-4b1f-9095-392a9ee775b9">
 
