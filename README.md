@@ -1,8 +1,5 @@
 <center>
   <h3>Bem-vindo ao meu perfil!!</h3>
-
-  <img width="200" height="200" alt="femalecodertocat"
-       src="https://github.com/user-attachments/assets/79359120-015e-4ab4-b3fe-f882972282e1" />
 </center>
 
 <br><br>
