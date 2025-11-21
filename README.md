@@ -1,6 +1,8 @@
 <center>
   <br>
   <h3> Bem vindo ao meu perfil!!</h3>
+    <img alt="GitHub Mascot" height="80" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+
 </center>
 
 <br><br>
