@@ -1,12 +1,9 @@
-<!-- TEXTO + IMAGEM LADO A LADO -->
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
+<center>
+  <h3>Bem-vindo ao meu perfil!!</h3>
 
-  <h3 style="margin: 0;">Bem-vindo ao meu perfil!!</h3>
-
-  <img width="200" height="200" alt="femalecodertocat" 
+  <img width="200" height="200" alt="femalecodertocat"
        src="https://github.com/user-attachments/assets/79359120-015e-4ab4-b3fe-f882972282e1" />
-
-</div>
+</center>
 
 <br><br>
 
@@ -22,16 +19,16 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img  align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
  
- <br>
- 
-<div> 
+<br>
+
+<div>
   <a href="https://www.instagram.com/geovana_nmayer/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
