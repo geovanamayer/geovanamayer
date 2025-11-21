@@ -1,8 +1,12 @@
-<center>
-  <br>
-  <h3> Bem vindo ao meu perfil!!</h3>
-</center>
-<img width="896" height="896" alt="femalecodertocat" src="https://github.com/user-attachments/assets/79359120-015e-4ab4-b3fe-f882972282e1" />
+<!-- TEXTO + IMAGEM LADO A LADO -->
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
+
+  <h3 style="margin: 0;">Bem-vindo ao meu perfil!!</h3>
+
+  <img width="200" height="200" alt="femalecodertocat" 
+       src="https://github.com/user-attachments/assets/79359120-015e-4ab4-b3fe-f882972282e1" />
+
+</div>
 
 <br><br>
 
